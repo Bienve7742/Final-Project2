@@ -1,0 +1,47 @@
+body {
+    background-color: #1d4a1d;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: 'Roboto Slab', serif;
+}
+
+#about {
+    height: 100vh
+}
+
+.m-heading {
+    font-size: 38px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+#about p {
+    font-size: 16px;
+    color: #d7d7d7;
+    line-height: 1.6;
+}
+
+.about-img {
+    max-height: 75vh;
+}
+
+.text-brown {
+    color: #8B4513 !important;
+}
+
+.text-olive {
+    color: #808000 !important;
+}
+
+.text-pr {
+    color: #ad3a68 !important;
+}
+
+.text-cg {
+    color: #70c195 !important;
+}
+
+.text-pearl {
+    color: #c5df92 !important;
+}
